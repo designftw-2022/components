@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Click Counter",
+		"tag": "click-counter",
+		"repo": "leaverou/click-counter",
+		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
+		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
+	}
+]
