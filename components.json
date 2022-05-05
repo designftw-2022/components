@@ -5,5 +5,12 @@
 		"repo": "leaverou/click-counter",
 		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
+	},
+	{
+		"name": "Formula Plotter",
+		"tag": "formula-plotter",
+		"repo": "cwcrystal8/formula-plotter",
+		"description": "A simple web component for plotting a single-variable formula on a graph with a resizable domain",
+		"image": "https://crystalwang.me/formula-plotter/docs/formula-plotter.png"
 	}
 ]
