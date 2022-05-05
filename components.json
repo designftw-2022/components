@@ -6,4 +6,11 @@
 		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
 	}
+	{
+		"name": "Currency Converter",
+		"tag": "currency-converter",
+		"repo": "maoivy/6s063-currency",
+		"description": "A component that converts from one currency to another",
+		"image:": "https://maoivy.github.io/currency-converter/screenshot.png"
+	}
 ]
