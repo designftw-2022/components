@@ -9,7 +9,7 @@
 	{
 		"name": "Mermaid Previewer",
 		"tag": "mermaid-preview",
-		"repo": "leaverou/click-counter",
+		"repo": "iperez319/mermaid-js-component",
 		"description": "An element that renders graphs written using Mermaid-js",
 		"image:": "https://github.com/iperez319/mermaid-js-component/blob/main/demo.png"
 	}
