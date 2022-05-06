@@ -7,6 +7,13 @@
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
 	},
 	{
+		"name":"Cool Tabs",
+		"tag":"cool-tab",
+		"repo": "itaylor24/cool-tabs",
+		"description": "Cool tabs is a custom web component for creating selectable tabs. Selecting a tab displays its content",
+		"image": "https://itaylor24.github.io/cool-tabs/cool-tabs-image.png"
+  },
+  {
 		"name": "Speedy Counter",
 		"tag": "speedy-counter-v1",
 		"repo": "Tamara-Mitrovska/counter-web-component",
