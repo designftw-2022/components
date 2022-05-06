@@ -5,5 +5,13 @@
 		"repo": "leaverou/click-counter",
 		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
+	},
+	{
+		"name": "Chess position component",
+		"tag": "chess-board",
+		"repo": "camimgh/chess-position-component",
+		"description": "Component that takes in a fen string and renders it as a static image of a chess board position.",
+		"image": "https://github.com/camimgh/chess-position-component/blob/main/images/chess-board-example.png"
+
 	}
 ]
