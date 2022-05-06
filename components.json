@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Click Counter",
-		"tag": "click-counter",
-		"repo": "leaverou/click-counter",
-		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
-		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
+		"name": "Carousel",
+		"tag": "custom-carousel",
+		"repo": "cameron4young/Carousel-Web-Component",
+		"description": "Web Component that can be used to create a Carousel display on webpages, without any knowledge of JavaScript.",
+		"image:": "https://cameron4young.github.io/Carousel-Web-Component/carousel.png"
 	}
 ]
