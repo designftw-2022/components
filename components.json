@@ -6,4 +6,11 @@
 		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
 	}
+	{
+		"name": "Mermaid Previewer",
+		"tag": "mermaid-preview",
+		"repo": "leaverou/click-counter",
+		"description": "An element that renders graphs written using Mermaid-js",
+		"image:": "https://github.com/iperez319/mermaid-js-component/blob/main/demo.png"
+	}
 ]
