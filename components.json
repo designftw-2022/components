@@ -60,6 +60,13 @@
 		"tag": "currency-converter",
 		"repo": "maoivy/6s063-currency",
 		"description": "A component that converts from one currency to another",
-		"image": "https://maoivy.github.io/currency-converter/screenshot.png"
+		"image:": "https://maoivy.github.io/currency-converter/screenshot.png"
+	},
+	{
+		"name": "Flip-Card",
+		"tag": "flip-card",
+		"repo": "mchanphilly/flip-card",
+		"description": "A component that allows for easy construction of flippable card-like elements",
+		"image": "https://mchanphilly.github.io/flip-card/flip-icon.png"
 	}
 ]
