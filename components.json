@@ -68,5 +68,12 @@
 		"repo": "adhami3310/pop-up-notification",
 		"description": "A web component for Pop-Up notifications",
 		"image": "https://adhami.me/pop-up-notification/image.png"
+	},
+	{
+		"name": "Flip-Card",
+		"tag": "flip-card",
+		"repo": "mchanphilly/flip-card",
+		"description": "A component that allows for easy construction of flippable card-like elements",
+		"image": "https://mchanphilly.github.io/flip-card/flip-icon.png"
 	}
 ]
