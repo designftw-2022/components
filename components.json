@@ -11,7 +11,7 @@
 		"tag": "chess-board",
 		"repo": "camimgh/chess-position-component",
 		"description": "Component that takes in a fen string and renders it as a static image of a chess board position.",
-		"image": "https://github.com/camimgh/chess-position-component/blob/main/images/chess-board-example.png"
+		"image": "https://camimgh.github.io/chess-position-component/images/chess-board-example.png"
   },
   {
 		"name": "Password Input",
