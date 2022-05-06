@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Carousel",
+		"tag": "custom-carousel",
+		"repo": "cameron4young/Carousel-Web-Component",
+		"description": "Web Component that can be used to create a Carousel display on webpages, without any knowledge of JavaScript.",
+		"image:": "https://cameron4young.github.io/Carousel-Web-Component/carousel.png"
+  },
+  {
 		"name": "Click Counter",
 		"tag": "click-counter",
 		"repo": "leaverou/click-counter",
