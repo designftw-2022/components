@@ -1,0 +1,47 @@
+body {
+	background: hsl(220 10% 95%);
+	font: 100%/1.5 system-ui, sans-serif;
+	margin: 0;
+}
+
+header {
+	text-align: center;
+	background: hsl(220 10% 50%);
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
+h1 {
+	color: white;
+	font-size: 300%;
+}
+
+code {
+	font-family: Consolas, Monaco, monospace;
+}
+
+main {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+	gap: 1em;
+}
+
+article {
+	border: 1px solid hsl(220 10% 90%);
+	padding: 1em;
+	border-radius: .2em;
+	background: white;
+}
+
+	img[property=image] {
+		width: 100%;
+	}
+
+	h2 code {
+		display: inline-flex;
+		vertical-align: .1em;
+		background: hsl(220 10% 90%);
+		border-radius: 2em;
+		padding: .15em .6em .1em;
+		font-size: 75%;
+	}
