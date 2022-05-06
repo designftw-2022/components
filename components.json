@@ -63,6 +63,13 @@
 		"image:": "https://maoivy.github.io/currency-converter/screenshot.png"
 	},
 	{
+		"name": "Popup Notification",
+		"tag": "adhami-toast",
+		"repo": "adhami3310/pop-up-notification",
+		"description": "A web component for Pop-Up notifications",
+		"image": "https://adhami.me/pop-up-notification/image.png"
+	},
+	{
 		"name": "Flip-Card",
 		"tag": "flip-card",
 		"repo": "mchanphilly/flip-card",
