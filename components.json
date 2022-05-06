@@ -4,7 +4,7 @@
 		"tag": "custom-carousel",
 		"repo": "cameron4young/Carousel-Web-Component",
 		"description": "Web Component that can be used to create a Carousel display on webpages, without any knowledge of JavaScript.",
-		"image:": "https://cameron4young.github.io/Carousel-Web-Component/carousel.png"
+		"image": "https://cameron4young.github.io/Carousel-Web-Component/carousel.png"
 	},
 	{
 		"name":"Cool Tabs",
@@ -18,7 +18,7 @@
 		"tag": "speedy-counter-v1",
 		"repo": "Tamara-Mitrovska/counter-web-component",
 		"description": "A web component that takes a number as contents and displays a counter that counts up to that number with customizable speed and start value.",
-		"image:": "https://tamara-mitrovska.github.io/counter-web-component/media/screenshot.png"
+		"image": "https://tamara-mitrovska.github.io/counter-web-component/media/screenshot.png"
 	},
 	{
 		"name": "Chess position component",
@@ -32,7 +32,7 @@
 		"tag": "password-input",
 		"repo": "kevintang2022/6s063-webcomponent_password-input",
 		"description": "This is a custom element module for password inputs. It allows you to hide and show the password with a single click.",
-		"image:": "https://github.com/kevintang2022/6s063-webcomponent_password-input/blob/main/docs/demo.jpg"
+		"image": "https://github.com/kevintang2022/6s063-webcomponent_password-input/blob/main/docs/demo.jpg"
 	},
 	{
 		"name": "Formula Plotter",
@@ -53,13 +53,13 @@
 		"tag": "mermaid-preview",
 		"repo": "iperez319/mermaid-js-component",
 		"description": "An element that renders graphs written using Mermaid-js",
-		"image:": "https://github.com/iperez319/mermaid-js-component/blob/main/demo.png"
+		"image": "https://github.com/iperez319/mermaid-js-component/blob/main/demo.png"
 	},
 	{
 		"name": "Currency Converter",
 		"tag": "currency-converter",
 		"repo": "maoivy/6s063-currency",
 		"description": "A component that converts from one currency to another",
-		"image:": "https://maoivy.github.io/currency-converter/screenshot.png"
+		"image": "https://maoivy.github.io/currency-converter/screenshot.png"
 	}
 ]
