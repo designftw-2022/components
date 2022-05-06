@@ -12,5 +12,19 @@
 		"repo": "kevintang2022/6s063-webcomponent_password-input",
 		"description": "This is a custom element module for password inputs. It allows you to hide and show the password with a single click.",
 		"image:": "https://github.com/kevintang2022/6s063-webcomponent_password-input/blob/main/docs/demo.jpg"	
+  },
+  {
+		"name": "Formula Plotter",
+		"tag": "formula-plotter",
+		"repo": "cwcrystal8/formula-plotter",
+		"description": "A simple web component for plotting a single-variable formula on a graph with a resizable domain",
+		"image": "https://crystalwang.me/formula-plotter/docs/formula-plotter.png"
+  },
+  {
+		"name": "image-compare",
+		"tag": "image-compare",
+		"repo": "barishnamazov/image-compare",
+		"description": "Simple, lightweight, and easy-to-use web component for comparing two images. You slide the slider to control which picture is shown more.",
+		"image": "https://barishnamazov.github.io/image-compare/screenshot.png"
 	}
 ]
