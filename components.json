@@ -7,6 +7,13 @@
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
 	},
 	{
+		"name": "Speedy Counter",
+		"tag": "speedy-counter-v1",
+		"repo": "Tamara-Mitrovska/counter-web-component",
+		"description": "A web component that takes a number as contents and displays a counter that counts up to that number with customizable speed and start value.",
+		"image:": "https://tamara-mitrovska.github.io/counter-web-component/media/screenshot.png"
+  },
+  {
 		"name": "Chess position component",
 		"tag": "chess-board",
 		"repo": "camimgh/chess-position-component",
