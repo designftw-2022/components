@@ -5,5 +5,12 @@
 		"repo": "leaverou/click-counter",
 		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
+	},
+	{
+		"name": "image-compare",
+		"tag": "image-compare",
+		"repo": "barishnamazov/image-compare",
+		"description": "Simple, lightweight, and easy-to-use web component for comparing two images. You slide the slider to control which picture is shown more.",
+		"image": "https://barishnamazov.github.io/image-compare/screenshot.png"
 	}
 ]
