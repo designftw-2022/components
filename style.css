@@ -9,11 +9,18 @@ header {
 	background: hsl(220 10% 50%);
 	padding: 1em;
 	margin-bottom: 1em;
+	font-size: 150%;
+	color: white;
 }
 
 h1 {
-	color: white;
-	font-size: 300%;
+	font-size: 200%;
+	margin: 0;
+	letter-spacing: -.02em;
+}
+
+header p {
+	font-weight: bold;
 }
 
 code {
