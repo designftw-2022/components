@@ -82,5 +82,13 @@
 		"repo": "yaroluchko/nutrition-facts",
 		"description": "A component that allows you to quickly display main nutritional facts about a certain food",
 		"image": "https://yaroluchko.github.io/nutrition-facts/example.png"
+	},
+	{
+		"name": "Typewriter Effect",
+		"tag": "char-by-char-display",
+		"repo": "Character-by-Character-Animation",
+		"description": "A component that displays words and sentences lette by letter",
+		"image": ""
 	}
+	
 ]
