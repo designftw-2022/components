@@ -32,7 +32,7 @@
 		"tag": "password-input",
 		"repo": "kevintang2022/6s063-webcomponent_password-input",
 		"description": "This is a custom element module for password inputs. It allows you to hide and show the password with a single click.",
-		"image": "https://github.com/kevintang2022/6s063-webcomponent_password-input/blob/main/docs/demo.jpg"
+		"image": "https://kevintang2022.github.io/6s063-webcomponent_password-input/docs/demo.jpg"
 	},
 	{
 		"name": "Formula Plotter",
@@ -53,7 +53,7 @@
 		"tag": "mermaid-preview",
 		"repo": "iperez319/mermaid-js-component",
 		"description": "An element that renders graphs written using Mermaid-js",
-		"image": "https://github.com/iperez319/mermaid-js-component/blob/main/demo.png"
+		"image": "https://iperez319.github.io/mermaid-js-component/demo.png"
 	},
 	{
 		"name": "Currency Converter",
