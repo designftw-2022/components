@@ -75,5 +75,12 @@
 		"repo": "mchanphilly/flip-card",
 		"description": "A component that allows for easy construction of flippable card-like elements",
 		"image": "https://mchanphilly.github.io/flip-card/flip-icon.png"
+	},
+	{
+		"name": "Nutrition Facts",
+		"tag": "nutrition-facts",
+		"repo": "yaroluchko/nutrition-facts",
+		"description": "A component that allows you to quickly display main nutritional facts about a certain food",
+		"image": "https://yaroluchko.github.io/nutrition-facts/example.png"
 	}
 ]
