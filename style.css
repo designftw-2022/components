@@ -16,6 +16,10 @@ h1 {
 	font-size: 300%;
 }
 
+code {
+	font-family: Consolas, Monaco, monospace;
+}
+
 main {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -29,6 +33,15 @@ article {
 	background: white;
 }
 
-img[property=image] {
-	width: 100%;
-}
+	img[property=image] {
+		width: 100%;
+	}
+
+	h2 code {
+		display: inline-flex;
+		vertical-align: .1em;
+		background: hsl(220 10% 90%);
+		border-radius: 2em;
+		padding: .15em .6em .1em;
+		font-size: 75%;
+	}
