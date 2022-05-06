@@ -5,5 +5,12 @@
 		"repo": "leaverou/click-counter",
 		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
+	},
+	{
+		"name":"Cool Tabs",
+		"tag":"cool-tab",
+		"repo": "itaylor24/cool-tabs",
+		"description": "Cool tabs is a custom web component for creating selectable tabs. Selecting a tab displays its content",
+		"image": "https://itaylor24.github.io/cool-tabs/cool-tabs-image.png"
 	}
 ]
