@@ -5,5 +5,12 @@
 		"repo": "leaverou/click-counter",
 		"description": "An element that counts clicks. Sample element to show you what data we need for your component, will be deleted later",
 		"image:": "https://leaverou.github.io/click-counter/screenshot.png"
+	},
+	{
+		"name": "Password Input",
+		"tag": "password-input",
+		"repo": "kevintang2022/6s063-webcomponent_password-input",
+		"description": "This is a custom element module for password inputs. It allows you to hide and show the password with a single click.",
+		"image:": "https://github.com/kevintang2022/6s063-webcomponent_password-input/blob/main/docs/demo.jpg"	
 	}
 ]
