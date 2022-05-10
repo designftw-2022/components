@@ -82,5 +82,12 @@
 		"repo": "yaroluchko/nutrition-facts",
 		"description": "A component that allows you to quickly display main nutritional facts about a certain food",
 		"image": "https://yaroluchko.github.io/nutrition-facts/example.png"
+	},
+	{
+		"name": "Star Rating",
+		"tag": "star-rating",
+		"repo": "emmajwang/star-rating",
+		"description": "A component for star ratings.",
+		"image": "https://emmajwang.github.io/star-rating/rating.png"
 	}
 ]
