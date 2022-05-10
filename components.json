@@ -86,7 +86,7 @@
 	{
 		"name": "Star Rating",
 		"tag": "star-rating",
-		"repo": "https://emmajwang.github.io/star-rating/",
+		"repo": "emmajwang/star-rating",
 		"description": "A component for star ratings.",
 		"image": "https://emmajwang.github.io/star-rating/rating.png"
 	}
